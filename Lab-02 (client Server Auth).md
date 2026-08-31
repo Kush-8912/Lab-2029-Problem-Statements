@@ -154,7 +154,7 @@ src/
 
 5
 
-## Task 3 — Protected Home Page (30 Marks)
+## Task 3 — Protected Home Page (30 Marks) (This can be done in the next Lab)
 
 ### Route
 
